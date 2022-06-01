@@ -1,4 +1,4 @@
-# KaliArm-CubieBoard2
+# CubieBoard2
 
 Tendo isso em vista, objetivo aqui nesse repositório disponibilizar um compilado de versões atualizadas de firmware para a CubieBoard2.
 
