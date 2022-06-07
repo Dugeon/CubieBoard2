@@ -2,6 +2,19 @@
 
 Tendo isso em vista, objetivo aqui nesse repositório disponibilizar um compilado de versões atualizadas de firmware para a CubieBoard2.
 
+#Instrução
+
+1 - Baixar todos os arquivos da pasta Images.
+2 - Descopactar
+3 - Gravar o arquivo .img no SD que será utilziado, para isso caso utilize o windows aconselho usar o Win32DiskImager (link a baixo):
+https://sourceforge.net/projects/win32diskimager/
+4 - Inserir o SD na CubieBoard2 e conectar o power.
+5 - Para a primeira incialização você precisará de um teclado usb e uma tela HDMI para configurar as contas de usuário, após isso será possivel acessar o via SSH desde que conectado ao uma rede.
+
+
+
+
+
 
 # Rev.2
 
@@ -11,7 +24,6 @@ Buscarei disponibilizar uma imagem com algumas funcionalidades que acho importan
 
 
 # Rev.1
-Kali: 
 
   Apesar do Kali Linux já ter suporte a dispositivos ARM, e até mesmo já ter um script de compilação próprio para a CubieBoard2, o mesmo n disponiliza o mesmo já compilado, alem de ser um processo complicado. Alem desses fatores, o atual script tem falhas a qual causam erros na hora da compilação, e impedem o dispositivo de iniciar.
 
