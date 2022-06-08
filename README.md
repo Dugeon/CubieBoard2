@@ -18,7 +18,7 @@ https://sourceforge.net/projects/win32diskimager/
 
 # Rev.2
 
-Após muitas pesquisas indentifiquei que o arch linux tem versões que funcionam corretamente na CubieBoard2, pela dificuldade de encontrar material apropriado na internet irei manter uma copia do firmware mais atualizado até o momento aqui para fim de arquivamento em caso de descontinuação do projeto https://archlinuxarm.org/ , todos os direitos sobre os arquivo são deles, e estou apenas fornecendo um espelho de backup.
+Após muitas pesquisas indentifiquei que o armbian tem versões que funcionam corretamente na CubieBoard2, pela dificuldade de encontrar material apropriado na internet irei manter uma copia do firmware mais atualizado até o momento aqui para fim de arquivamento em caso de descontinuação do projeto https://armbian.tnahosting.net/archive/cubieboard2/archive/ , todos os direitos sobre os arquivo são deles, e estou apenas fornecendo um espelho de backup.
 
 Buscarei disponibilizar uma imagem com algumas funcionalidades que acho importantes já pre-instaladas de forma a facilitar o acesso aqueles que tenham dificuldades.
 
